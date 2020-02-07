@@ -6,8 +6,11 @@ https://vizsim.github.io/bussgelddaten/bussgelder_koeln_parken.html
 
 
 ### Quellen
-* Daten  
+* Köln 
 https://www.offenedaten-koeln.de/dataset/bu%C3%9Fgelddaten-koeln-2018
+
+* Stuttgart
+https://fragdenstaat.de/anfrage/bugelddaten-des-ruhenden-verkehrs-fur-stuttgart/
 
 
 * Bußgeldkatalog  
